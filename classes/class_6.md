@@ -1,6 +1,4 @@
-# Class 6 (Monday 21 November)
-
-These tasks are designed to be worked on in the practical class on Monday 21 November.
+# Class 6
 
 ## Using CG
 You can create a random 500 by 500 symmetric positive definite matrix by running:

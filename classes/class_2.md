@@ -1,6 +1,4 @@
-# Class 2 (Monday 17 October)
-
-These tasks are designed to be worked on in the practical class on Monday 17 October.
+# Class 2
 
 ## Experimenting with Numba
 Let's start by looking at the matvec code we wrote last week.

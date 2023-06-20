@@ -1,6 +1,4 @@
-# Class 1 (Monday 10 October)
-
-These tasks are designed to be worked on in the practical class on Monday 10 October.
+# Class 1
 
 ## Getting to know Numpy
 Practice using Numpy by doing the following tasks:

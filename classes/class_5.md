@@ -1,6 +1,4 @@
-# Class 5 (Monday 14 November)
-
-These tasks are designed to be worked on in the practical class on Monday 14 November.
+# Class 5
 
 ## Using GMRES
 You can create an identity matrix ($\mathrm{I}$) with Numpy by running:

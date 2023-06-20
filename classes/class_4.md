@@ -1,6 +1,4 @@
-# Class 4 (Monday 31 October)
-
-These tasks are designed to be worked on in the practical class on Monday 31 October.
+# Class 4
 
 In this class, we will make heavy use of the [finite difference code for solving a Poisson problem](https://gist.github.com/mscroggs/45ab606d6e69b811122b2697821267b1)
 that we wrote in lectures. You can find this code [here](https://gist.github.com/mscroggs/45ab606d6e69b811122b2697821267b1).

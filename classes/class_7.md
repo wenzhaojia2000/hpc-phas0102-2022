@@ -1,6 +1,4 @@
-# Class 7 (Monday 5 December)
-
-These tasks are designed to be worked on in the practical class on Monday 5 December.
+# Class 7
 
 ## LU for a tridiagonal matrix
 In Friday's lecture, we computed the LU factorisation of a dense matrix.

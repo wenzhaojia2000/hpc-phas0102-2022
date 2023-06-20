@@ -1,6 +1,4 @@
-# Class 3 (Monday 24 October)
-
-These tasks are designed to be worked on in the practical class on Monday 24 October.
+# Class 3
 
 In this class, we'll be running code on a GPU using Cuda. To see if you have a device available, you can run:
 
