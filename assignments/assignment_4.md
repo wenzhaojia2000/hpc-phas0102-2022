@@ -37,7 +37,7 @@ The finite element method is a method that can approximately solve problems like
 (or $N+1$ points by $N+1$ points - 
 note that there are $N$ squares along each side, but $N+1$ points along each side (watch out for off-by-one errors)):
 
-![A mesh of $N$ squares by $N$ squares](img/2022a4-mesh.png)
+![A mesh of $N$ squares by $N$ squares](img/mesh.png)
 
 As shown in the diagram, we let $h=1/N$.
 
